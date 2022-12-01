@@ -3,7 +3,9 @@
 These are the materials for 2022 presentation I gave on R to OSU Cascade's
 Hacker Refactor club.
 
-You can run the notebook via jupyterlab in docker like so:
+You can try it by running on binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fjoshkunz%2F2022-r-hacker-refactor-presentation/9ba94b59cdb17212ca7e6499385fcac2993f6494?urlpath=lab%2Ftree%2F2022-hacker-refactor.ipynb)
+
+Or, you can run the notebook locally via jupyterlab in docker like so:
 
 ```
 git clone https://github.com/joshkunz/2022-r-hacker-refactor-presentation presentation
